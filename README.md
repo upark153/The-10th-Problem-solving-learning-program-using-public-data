@@ -1,2 +1,21 @@
 # The-10th-Problem-solving-learning-program-using-public-data
  Create a problem-solving program using public data open API. It consists of python Qt and tcp/ip server and client.
+
+![image](https://user-images.githubusercontent.com/115389450/235424108-29d58da2-dc0b-402f-bbbc-e027e68daa72.png)
+![image](https://user-images.githubusercontent.com/115389450/235424144-74846dbf-4b99-426b-bcb4-966d42516a34.png)
+![image](https://user-images.githubusercontent.com/115389450/235424224-16c875bd-bcab-484d-ae79-26cc29923f11.png)
+![image](https://user-images.githubusercontent.com/115389450/235424259-87c5e7c0-d263-4195-a276-63d17ce4f4ea.png)
+![image](https://user-images.githubusercontent.com/115389450/235424300-ca43bc59-7421-4dd2-a3f8-bccb44fe257d.png)
+![image](https://user-images.githubusercontent.com/115389450/235424333-26228e5e-8091-4698-9aa5-3fbc6b11f129.png)
+![image](https://user-images.githubusercontent.com/115389450/235424372-23a2be0c-38eb-4143-890c-ff4578dca6a7.png)
+![image](https://user-images.githubusercontent.com/115389450/235424404-9c9d0c4b-11bc-4969-9a72-a2a040d565ec.png)
+![image](https://user-images.githubusercontent.com/115389450/235424441-eabee25f-66c9-4ab2-b18e-e9a1ccab8d7f.png)
+![image](https://user-images.githubusercontent.com/115389450/235424483-e08cc197-3bdf-4498-8687-794d87594690.png)
+![image](https://user-images.githubusercontent.com/115389450/235424519-5f2fe678-ac5a-4568-bc84-fde6dd34d8c3.png)
+![image](https://user-images.githubusercontent.com/115389450/235424558-e2464fec-d2eb-4cd5-b4a6-b741d9c9f79d.png)
+![image](https://user-images.githubusercontent.com/115389450/235424594-a5319485-fb2f-4645-842e-397c1eaf4bf4.png)
+![image](https://user-images.githubusercontent.com/115389450/235424644-0aa4665b-fedd-46cb-83b3-f68c4357a739.png)
+![image](https://user-images.githubusercontent.com/115389450/235424686-b1445f50-a17a-4b45-b8dd-b816d1c17a5b.png)
+![image](https://user-images.githubusercontent.com/115389450/235424721-504a90c3-f6df-4771-af11-40705c4a9c3d.png)
+![image](https://user-images.githubusercontent.com/115389450/235424763-c4785f96-eb82-4b29-bb9f-b2060e266c40.png)
+![image](https://user-images.githubusercontent.com/115389450/235424799-baa08b14-fe47-44e5-8b11-3016190e618c.png)
